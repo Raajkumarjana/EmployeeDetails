@@ -37,8 +37,12 @@ public class Employee {
 	e.empEmail();
 	e.empAddress();
 	
+	System.out.println("Work Done By Dev");
+	System.out.println("Dev Done");
+	
 	System.out.println("Work Done By QA");
 	System.out.println("QA Done");
+
 	}
 	
 }
